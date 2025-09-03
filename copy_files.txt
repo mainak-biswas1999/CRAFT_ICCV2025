@@ -1,0 +1,14 @@
+1) The executes must work off the shelf as follows for each of the modalities:
+
+2) Model
+
+3) Outputs?
+
+4) for 1 seed each
+
+a) Saccade
+b) Brain
+c) People 
+d) Tumour
+
+outputs -- to generate plots?
